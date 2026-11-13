@@ -1,0 +1,23 @@
+WORLD CUP 1.13 — REVISIÓN DE JUGABILIDAD Y COSMÉTICOS
+
+CAMBIOS
+1. Banco de 840 preguntas renovado, 210 por cada uno de los 4 modos; 7 preguntas por partida (2 fáciles, 3 medias y 2 difíciles). Las preguntas son más generales y admiten numerosas respuestas válidas.
+2. Preguntas de trayectorias: incluye «Di un equipo donde haya jugado Messi» y otros futbolistas conocidos.
+3. Puntuación: eliminados los 60 puntos por defecto. Ahora los 5 rangos se calculan con un índice ESTIMADO de notoriedad relativo a las respuestas válidas de cada pregunta (no son porcentajes de usuarios). Futuras Promesas admite cualquier jugador de la liga o club indicado, y usa la edad de menor a mayor para premiar a los más jóvenes, mientras que La Cima invierte la puntuación de notoriedad.
+4. Buscador de jugadores: acepta nombres, apellidos y alias; sugerencias tras 2 letras de TODA la base, sin revelar qué jugadores son válidos para la pregunta. Para homónimos, selecciona desde el desplegable.
+5. Escenarios: reparado el apilamiento CSS de las capas de estadio en partida y animaciones, incluidos los dispositivos móviles.
+6. Marcador lateral: metros en números enteros con tamaño reducido y anchura limitada.
+7. Menú: retirados iconos emoji de las cuatro tarjetas de Inventario/Cofres/Trofeos/Skins, sustituidos por ilustraciones.
+8. Cuatro imágenes de cofres incorporadas (común, raro, épico, legendario): pantalla de cofres y camino de trofeos. Se conservan fragmentos, duplicados, y cofres por nivel.
+9. Inventario: 40 objetos con ilustraciones SVG identificables, siluetas de objetos bloqueados, botones EQUIPAR visibles en cada objeto desbloqueado y botón de equipar en apertura de cofre.
+10. Sigue siendo un PROTOTIPO: 3515 futbolistas conservados, datos guardados con localStorage, partidas ilimitadas para pruebas.
+
+IMPORTANTE PARA GITHUB PAGES
+- Subir EL CONTENIDO de la carpeta world-cup-v12 al repositorio, con index.html, juego.js, estilos.css, archivos JSON, imagenes SVG/WEBP y carpetas fondos-descenso/fondos-futuro/fondos-pasado en la misma raíz.
+- GitHub Pages: main / (root). Después de subir, recarga Safari y, si aparece contenido antiguo, borra los datos del sitio o abre la dirección en una pestaña privada (no preserva datos del navegador).
+- Si has jugado en Safari, NO borres los datos del sitio sin exportar el progreso: el inventario y los niveles actuales se guardan localmente en ese navegador.
+
+CONTROL DE CALIDAD
+- Sintaxis JavaScript comprobada con node --check.
+- Banco comprobado: 840 preguntas, 210 por modo, 2+3+2 por partida, 3515 jugadores; cinco bandas de puntuación presentes en cada pregunta simulada.
+- No se ha completado prueba visual de navegador: la infraestructura del entorno bloqueó el acceso de Chromium a servidores locales y file://. Se requiere probar en Safari/Live Server.

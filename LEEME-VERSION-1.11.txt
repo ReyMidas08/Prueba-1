@@ -1,0 +1,10 @@
+WORLD CUP 1.11 - PERFIL, EXPERIENCIA Y NIVELES
+
+Abrir index.html con Live Server. Pulsar el perfil arriba a la derecha.
+Pestañas: Resumen, Editar, Estadísticas y Colección.
+Se asignan XP tras completar cada partida: 50 XP + redondeo(puntuación/10) + 20 por cada Golazo (100 pts).
+Las partidas repetidas también dan XP EN ESTA BETA. La racha cuenta un día por fecha en Europe/Madrid.
+Historial visible limitado a 120 resultados; estadísticas acumuladas independientes.
+Progreso guardado solo en localStorage del navegador. Sin servidor, login ni sincronización.
+Cosméticos: catálogo inicial 40 con desbloqueos por nivel de prueba; no hay cofres ni equipamiento real aún.
+Se conservan cuatro desafíos, las 840 preguntas, 3515 jugadores, fondos y animaciones anteriores.

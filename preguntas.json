@@ -1,0 +1,1552 @@
+[
+  {
+    "id": 1,
+    "text": "Nombra un futbolista que haya jugado en FC Barcelona.",
+    "difficulty": "facil",
+    "answers": [
+      {
+        "name": "Messi",
+        "points": 15
+      },
+      {
+        "name": "Xavi",
+        "points": 30
+      },
+      {
+        "name": "Iniesta",
+        "points": 45
+      },
+      {
+        "name": "Ronaldinho",
+        "points": 60
+      },
+      {
+        "name": "Neymar",
+        "points": 80
+      },
+      {
+        "name": "Busquets",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Nombra un futbolista que haya jugado en Real Madrid.",
+    "difficulty": "facil",
+    "answers": [
+      {
+        "name": "Cristiano Ronaldo",
+        "points": 15
+      },
+      {
+        "name": "Sergio Ramos",
+        "points": 30
+      },
+      {
+        "name": "Modric",
+        "points": 45
+      },
+      {
+        "name": "Benzema",
+        "points": 60
+      },
+      {
+        "name": "Vinicius",
+        "points": 80
+      },
+      {
+        "name": "Raul",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Nombra un futbolista que haya jugado en Manchester United.",
+    "difficulty": "facil",
+    "answers": [
+      {
+        "name": "Rooney",
+        "points": 15
+      },
+      {
+        "name": "Cristiano Ronaldo",
+        "points": 30
+      },
+      {
+        "name": "Bruno Fernandes",
+        "points": 45
+      },
+      {
+        "name": "Rashford",
+        "points": 60
+      },
+      {
+        "name": "Cantona",
+        "points": 80
+      },
+      {
+        "name": "Scholes",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Nombra un futbolista que haya jugado en Liverpool.",
+    "difficulty": "facil",
+    "answers": [
+      {
+        "name": "Salah",
+        "points": 15
+      },
+      {
+        "name": "Van Dijk",
+        "points": 30
+      },
+      {
+        "name": "Gerrard",
+        "points": 45
+      },
+      {
+        "name": "Firmino",
+        "points": 60
+      },
+      {
+        "name": "Alexander-Arnold",
+        "points": 80
+      },
+      {
+        "name": "Luis Suarez",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Nombra un futbolista que haya jugado en Arsenal.",
+    "difficulty": "facil",
+    "answers": [
+      {
+        "name": "Henry",
+        "points": 15
+      },
+      {
+        "name": "Saka",
+        "points": 30
+      },
+      {
+        "name": "Odegaard",
+        "points": 45
+      },
+      {
+        "name": "Bergkamp",
+        "points": 60
+      },
+      {
+        "name": "Rice",
+        "points": 80
+      },
+      {
+        "name": "Fabregas",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Nombra un futbolista que haya jugado en Chelsea.",
+    "difficulty": "facil",
+    "answers": [
+      {
+        "name": "Lampard",
+        "points": 15
+      },
+      {
+        "name": "Drogba",
+        "points": 30
+      },
+      {
+        "name": "Hazard",
+        "points": 45
+      },
+      {
+        "name": "Cole Palmer",
+        "points": 60
+      },
+      {
+        "name": "Kante",
+        "points": 80
+      },
+      {
+        "name": "John Terry",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Nombra un futbolista que haya jugado en Manchester City.",
+    "difficulty": "facil",
+    "answers": [
+      {
+        "name": "Haaland",
+        "points": 15
+      },
+      {
+        "name": "De Bruyne",
+        "points": 30
+      },
+      {
+        "name": "David Silva",
+        "points": 45
+      },
+      {
+        "name": "Aguero",
+        "points": 60
+      },
+      {
+        "name": "Rodri",
+        "points": 80
+      },
+      {
+        "name": "Foden",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Nombra un futbolista que haya jugado en Bayern Munich.",
+    "difficulty": "facil",
+    "answers": [
+      {
+        "name": "Muller",
+        "points": 15
+      },
+      {
+        "name": "Neuer",
+        "points": 30
+      },
+      {
+        "name": "Lewandowski",
+        "points": 45
+      },
+      {
+        "name": "Robben",
+        "points": 60
+      },
+      {
+        "name": "Ribery",
+        "points": 80
+      },
+      {
+        "name": "Kimmich",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Nombra un futbolista que haya jugado en Borussia Dortmund.",
+    "difficulty": "facil",
+    "answers": [
+      {
+        "name": "Reus",
+        "points": 15
+      },
+      {
+        "name": "Haaland",
+        "points": 30
+      },
+      {
+        "name": "Bellingham",
+        "points": 45
+      },
+      {
+        "name": "Sancho",
+        "points": 60
+      },
+      {
+        "name": "Hummels",
+        "points": 80
+      },
+      {
+        "name": "Gotze",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Nombra un futbolista que haya jugado en PSG.",
+    "difficulty": "facil",
+    "answers": [
+      {
+        "name": "Mbappe",
+        "points": 15
+      },
+      {
+        "name": "Neymar",
+        "points": 30
+      },
+      {
+        "name": "Messi",
+        "points": 45
+      },
+      {
+        "name": "Marquinhos",
+        "points": 60
+      },
+      {
+        "name": "Verratti",
+        "points": 80
+      },
+      {
+        "name": "Cavani",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Nombra un futbolista que haya jugado en Juventus.",
+    "difficulty": "facil",
+    "answers": [
+      {
+        "name": "Del Piero",
+        "points": 15
+      },
+      {
+        "name": "Buffon",
+        "points": 30
+      },
+      {
+        "name": "Pirlo",
+        "points": 45
+      },
+      {
+        "name": "Dybala",
+        "points": 60
+      },
+      {
+        "name": "Cristiano Ronaldo",
+        "points": 80
+      },
+      {
+        "name": "Chiellini",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Nombra un futbolista que haya jugado en Inter de Milan.",
+    "difficulty": "facil",
+    "answers": [
+      {
+        "name": "Zanetti",
+        "points": 15
+      },
+      {
+        "name": "Lautaro Martinez",
+        "points": 30
+      },
+      {
+        "name": "Milito",
+        "points": 45
+      },
+      {
+        "name": "Sneijder",
+        "points": 60
+      },
+      {
+        "name": "Barella",
+        "points": 80
+      },
+      {
+        "name": "Lukaku",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Nombra un futbolista que haya jugado en AC Milan.",
+    "difficulty": "facil",
+    "answers": [
+      {
+        "name": "Kaka",
+        "points": 15
+      },
+      {
+        "name": "Maldini",
+        "points": 30
+      },
+      {
+        "name": "Ibrahimovic",
+        "points": 45
+      },
+      {
+        "name": "Shevchenko",
+        "points": 60
+      },
+      {
+        "name": "Leao",
+        "points": 80
+      },
+      {
+        "name": "Seedorf",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Nombra un futbolista que haya jugado en Atletico de Madrid.",
+    "difficulty": "facil",
+    "answers": [
+      {
+        "name": "Griezmann",
+        "points": 15
+      },
+      {
+        "name": "Koke",
+        "points": 30
+      },
+      {
+        "name": "Torres",
+        "points": 45
+      },
+      {
+        "name": "Godin",
+        "points": 60
+      },
+      {
+        "name": "Oblak",
+        "points": 80
+      },
+      {
+        "name": "Diego Costa",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Nombra un futbolista que haya jugado en Sevilla.",
+    "difficulty": "facil",
+    "answers": [
+      {
+        "name": "Rakitic",
+        "points": 15
+      },
+      {
+        "name": "Jesus Navas",
+        "points": 30
+      },
+      {
+        "name": "Banega",
+        "points": 45
+      },
+      {
+        "name": "Bono",
+        "points": 60
+      },
+      {
+        "name": "Kanoute",
+        "points": 80
+      },
+      {
+        "name": "Sergio Ramos",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Nombra un futbolista que haya jugado en Valencia.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "David Villa",
+        "points": 15
+      },
+      {
+        "name": "David Silva",
+        "points": 30
+      },
+      {
+        "name": "Gaya",
+        "points": 45
+      },
+      {
+        "name": "Mata",
+        "points": 60
+      },
+      {
+        "name": "Cañizares",
+        "points": 80
+      },
+      {
+        "name": "Pablo Aimar",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Nombra un futbolista que haya jugado en Real Betis.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Joaquin",
+        "points": 15
+      },
+      {
+        "name": "Isco",
+        "points": 30
+      },
+      {
+        "name": "Fekir",
+        "points": 45
+      },
+      {
+        "name": "Borja Iglesias",
+        "points": 60
+      },
+      {
+        "name": "Lo Celso",
+        "points": 80
+      },
+      {
+        "name": "Sergio Canales",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Nombra un futbolista que haya jugado en Athletic Club.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Iñaki Williams",
+        "points": 15
+      },
+      {
+        "name": "Nico Williams",
+        "points": 30
+      },
+      {
+        "name": "Muniain",
+        "points": 45
+      },
+      {
+        "name": "Aduriz",
+        "points": 60
+      },
+      {
+        "name": "Unai Simon",
+        "points": 80
+      },
+      {
+        "name": "Llorente",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Nombra un futbolista que haya jugado en Tottenham.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Harry Kane",
+        "points": 15
+      },
+      {
+        "name": "Son Heung-min",
+        "points": 30
+      },
+      {
+        "name": "Bale",
+        "points": 45
+      },
+      {
+        "name": "Modric",
+        "points": 60
+      },
+      {
+        "name": "Eriksen",
+        "points": 80
+      },
+      {
+        "name": "Dele Alli",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Nombra un futbolista que haya jugado en Napoli.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Maradona",
+        "points": 15
+      },
+      {
+        "name": "Osimhen",
+        "points": 30
+      },
+      {
+        "name": "Kvaratskhelia",
+        "points": 45
+      },
+      {
+        "name": "Hamsik",
+        "points": 60
+      },
+      {
+        "name": "Insigne",
+        "points": 80
+      },
+      {
+        "name": "Mertens",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Nombra un futbolista que haya jugado en Roma.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Totti",
+        "points": 15
+      },
+      {
+        "name": "De Rossi",
+        "points": 30
+      },
+      {
+        "name": "Dybala",
+        "points": 45
+      },
+      {
+        "name": "Salah",
+        "points": 60
+      },
+      {
+        "name": "Pellegrini",
+        "points": 80
+      },
+      {
+        "name": "Dzeko",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Nombra un futbolista que haya jugado en Ajax.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Cruyff",
+        "points": 15
+      },
+      {
+        "name": "De Jong",
+        "points": 30
+      },
+      {
+        "name": "De Ligt",
+        "points": 45
+      },
+      {
+        "name": "Van der Sar",
+        "points": 60
+      },
+      {
+        "name": "Suarez",
+        "points": 80
+      },
+      {
+        "name": "Blind",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Nombra un futbolista que haya jugado en Benfica.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Di Maria",
+        "points": 15
+      },
+      {
+        "name": "Joao Felix",
+        "points": 30
+      },
+      {
+        "name": "Rui Costa",
+        "points": 45
+      },
+      {
+        "name": "Otamendi",
+        "points": 60
+      },
+      {
+        "name": "Enzo Fernandez",
+        "points": 80
+      },
+      {
+        "name": "Darwin Nunez",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Nombra un futbolista que haya jugado en Porto.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Pepe",
+        "points": 15
+      },
+      {
+        "name": "Deco",
+        "points": 30
+      },
+      {
+        "name": "Falcao",
+        "points": 45
+      },
+      {
+        "name": "Hulk",
+        "points": 60
+      },
+      {
+        "name": "Luis Diaz",
+        "points": 80
+      },
+      {
+        "name": "Diogo Costa",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Nombra un futbolista que haya jugado en Sporting CP.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Cristiano Ronaldo",
+        "points": 15
+      },
+      {
+        "name": "Bruno Fernandes",
+        "points": 30
+      },
+      {
+        "name": "Nani",
+        "points": 45
+      },
+      {
+        "name": "Joao Mario",
+        "points": 60
+      },
+      {
+        "name": "Pedro Goncalves",
+        "points": 80
+      },
+      {
+        "name": "Rafael Leao",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Nombra un futbolista que haya representado a Argentina en la selección absoluta masculina.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Messi",
+        "points": 15
+      },
+      {
+        "name": "Maradona",
+        "points": 30
+      },
+      {
+        "name": "Di Maria",
+        "points": 45
+      },
+      {
+        "name": "Lautaro Martinez",
+        "points": 60
+      },
+      {
+        "name": "Dybala",
+        "points": 80
+      },
+      {
+        "name": "Julian Alvarez",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Nombra un futbolista que haya representado a Brasil en la selección absoluta masculina.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Neymar",
+        "points": 15
+      },
+      {
+        "name": "Ronaldinho",
+        "points": 30
+      },
+      {
+        "name": "Ronaldo Nazario",
+        "points": 45
+      },
+      {
+        "name": "Kaka",
+        "points": 60
+      },
+      {
+        "name": "Vinicius",
+        "points": 80
+      },
+      {
+        "name": "Raphinha",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Nombra un futbolista que haya representado a España en la selección absoluta masculina.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Iniesta",
+        "points": 15
+      },
+      {
+        "name": "Xavi",
+        "points": 30
+      },
+      {
+        "name": "Ramos",
+        "points": 45
+      },
+      {
+        "name": "Pedri",
+        "points": 60
+      },
+      {
+        "name": "Rodri",
+        "points": 80
+      },
+      {
+        "name": "Morata",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Nombra un futbolista que haya representado a Francia en la selección absoluta masculina.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Mbappe",
+        "points": 15
+      },
+      {
+        "name": "Griezmann",
+        "points": 30
+      },
+      {
+        "name": "Benzema",
+        "points": 45
+      },
+      {
+        "name": "Kante",
+        "points": 60
+      },
+      {
+        "name": "Giroud",
+        "points": 80
+      },
+      {
+        "name": "Dembele",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Nombra un futbolista que haya representado a Alemania en la selección absoluta masculina.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Muller",
+        "points": 15
+      },
+      {
+        "name": "Kroos",
+        "points": 30
+      },
+      {
+        "name": "Neuer",
+        "points": 45
+      },
+      {
+        "name": "Musiala",
+        "points": 60
+      },
+      {
+        "name": "Havertz",
+        "points": 80
+      },
+      {
+        "name": "Kimmich",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Nombra un futbolista que haya representado a Portugal en la selección absoluta masculina.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Cristiano Ronaldo",
+        "points": 15
+      },
+      {
+        "name": "Bruno Fernandes",
+        "points": 30
+      },
+      {
+        "name": "Bernardo Silva",
+        "points": 45
+      },
+      {
+        "name": "Ruben Dias",
+        "points": 60
+      },
+      {
+        "name": "Leao",
+        "points": 80
+      },
+      {
+        "name": "Joao Felix",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Nombra un futbolista que haya representado a Inglaterra en la selección absoluta masculina.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Harry Kane",
+        "points": 15
+      },
+      {
+        "name": "Bellingham",
+        "points": 30
+      },
+      {
+        "name": "Saka",
+        "points": 45
+      },
+      {
+        "name": "Foden",
+        "points": 60
+      },
+      {
+        "name": "Rice",
+        "points": 80
+      },
+      {
+        "name": "Palmer",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Nombra un futbolista que haya representado a Italia en la selección absoluta masculina.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Buffon",
+        "points": 15
+      },
+      {
+        "name": "Chiellini",
+        "points": 30
+      },
+      {
+        "name": "Barella",
+        "points": 45
+      },
+      {
+        "name": "Donnarumma",
+        "points": 60
+      },
+      {
+        "name": "Chiesa",
+        "points": 80
+      },
+      {
+        "name": "Jorginho",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Nombra un futbolista que haya representado a Uruguay en la selección absoluta masculina.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Luis Suarez",
+        "points": 15
+      },
+      {
+        "name": "Cavani",
+        "points": 30
+      },
+      {
+        "name": "Valverde",
+        "points": 45
+      },
+      {
+        "name": "Darwin Nunez",
+        "points": 60
+      },
+      {
+        "name": "Araujo",
+        "points": 80
+      },
+      {
+        "name": "Bentancur",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Nombra un futbolista que haya representado a Paises Bajos en la selección absoluta masculina.",
+    "difficulty": "media",
+    "answers": [
+      {
+        "name": "Van Dijk",
+        "points": 15
+      },
+      {
+        "name": "De Jong",
+        "points": 30
+      },
+      {
+        "name": "Depay",
+        "points": 45
+      },
+      {
+        "name": "Robben",
+        "points": 60
+      },
+      {
+        "name": "Sneijder",
+        "points": 80
+      },
+      {
+        "name": "De Ligt",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Nombra un futbolista que haya representado a Belgica en la selección absoluta masculina.",
+    "difficulty": "dificil",
+    "answers": [
+      {
+        "name": "De Bruyne",
+        "points": 15
+      },
+      {
+        "name": "Lukaku",
+        "points": 30
+      },
+      {
+        "name": "Hazard",
+        "points": 45
+      },
+      {
+        "name": "Courtois",
+        "points": 60
+      },
+      {
+        "name": "Doku",
+        "points": 80
+      },
+      {
+        "name": "Tielemans",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Nombra un futbolista que haya representado a Croacia en la selección absoluta masculina.",
+    "difficulty": "dificil",
+    "answers": [
+      {
+        "name": "Modric",
+        "points": 15
+      },
+      {
+        "name": "Rakitic",
+        "points": 30
+      },
+      {
+        "name": "Perisic",
+        "points": 45
+      },
+      {
+        "name": "Kovacic",
+        "points": 60
+      },
+      {
+        "name": "Gvardiol",
+        "points": 80
+      },
+      {
+        "name": "Brozovic",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Nombra un futbolista que haya representado a Colombia en la selección absoluta masculina.",
+    "difficulty": "dificil",
+    "answers": [
+      {
+        "name": "James Rodriguez",
+        "points": 15
+      },
+      {
+        "name": "Falcao",
+        "points": 30
+      },
+      {
+        "name": "Luis Diaz",
+        "points": 45
+      },
+      {
+        "name": "Cuadrado",
+        "points": 60
+      },
+      {
+        "name": "Bacca",
+        "points": 80
+      },
+      {
+        "name": "Davinson Sanchez",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Nombra un futbolista que haya representado a Noruega en la selección absoluta masculina.",
+    "difficulty": "dificil",
+    "answers": [
+      {
+        "name": "Haaland",
+        "points": 15
+      },
+      {
+        "name": "Odegaard",
+        "points": 30
+      },
+      {
+        "name": "Sorloth",
+        "points": 45
+      },
+      {
+        "name": "Ajer",
+        "points": 60
+      },
+      {
+        "name": "Ryerson",
+        "points": 80
+      },
+      {
+        "name": "Berge",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Nombra un futbolista que haya representado a Marruecos en la selección absoluta masculina.",
+    "difficulty": "dificil",
+    "answers": [
+      {
+        "name": "Hakimi",
+        "points": 15
+      },
+      {
+        "name": "Ziyech",
+        "points": 30
+      },
+      {
+        "name": "Bono",
+        "points": 45
+      },
+      {
+        "name": "Amrabat",
+        "points": 60
+      },
+      {
+        "name": "En Nesyri",
+        "points": 80
+      },
+      {
+        "name": "Mazraoui",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Nombra un futbolista que haya representado a Japon en la selección absoluta masculina.",
+    "difficulty": "dificil",
+    "answers": [
+      {
+        "name": "Kubo",
+        "points": 15
+      },
+      {
+        "name": "Mitoma",
+        "points": 30
+      },
+      {
+        "name": "Endo",
+        "points": 45
+      },
+      {
+        "name": "Minamino",
+        "points": 60
+      },
+      {
+        "name": "Tomiyasu",
+        "points": 80
+      },
+      {
+        "name": "Doan",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Nombra un futbolista que haya representado a Corea del Sur en la selección absoluta masculina.",
+    "difficulty": "dificil",
+    "answers": [
+      {
+        "name": "Son Heung-min",
+        "points": 15
+      },
+      {
+        "name": "Kim Min-jae",
+        "points": 30
+      },
+      {
+        "name": "Hwang Hee-chan",
+        "points": 45
+      },
+      {
+        "name": "Lee Kang-in",
+        "points": 60
+      },
+      {
+        "name": "Ki Sung-yueng",
+        "points": 80
+      },
+      {
+        "name": "Park Ji-sung",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Nombra un futbolista que haya representado a Estados Unidos en la selección absoluta masculina.",
+    "difficulty": "dificil",
+    "answers": [
+      {
+        "name": "Pulisic",
+        "points": 15
+      },
+      {
+        "name": "McKennie",
+        "points": 30
+      },
+      {
+        "name": "Weah",
+        "points": 45
+      },
+      {
+        "name": "Reyna",
+        "points": 60
+      },
+      {
+        "name": "Adams",
+        "points": 80
+      },
+      {
+        "name": "Dest",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "text": "Nombra un futbolista que haya representado a Mexico en la selección absoluta masculina.",
+    "difficulty": "dificil",
+    "answers": [
+      {
+        "name": "Ochoa",
+        "points": 15
+      },
+      {
+        "name": "Chicharito",
+        "points": 30
+      },
+      {
+        "name": "Lozano",
+        "points": 45
+      },
+      {
+        "name": "Edson Alvarez",
+        "points": 60
+      },
+      {
+        "name": "Jimenez",
+        "points": 80
+      },
+      {
+        "name": "Guardado",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "text": "Nombra un futbolista que haya representado a Ecuador en la selección absoluta masculina.",
+    "difficulty": "dificil",
+    "answers": [
+      {
+        "name": "Enner Valencia",
+        "points": 15
+      },
+      {
+        "name": "Caicedo",
+        "points": 30
+      },
+      {
+        "name": "Estupinan",
+        "points": 45
+      },
+      {
+        "name": "Hincapie",
+        "points": 60
+      },
+      {
+        "name": "Plata",
+        "points": 80
+      },
+      {
+        "name": "Sarmiento",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "text": "Nombra un futbolista que haya representado a Senegal en la selección absoluta masculina.",
+    "difficulty": "dificil",
+    "answers": [
+      {
+        "name": "Mane",
+        "points": 15
+      },
+      {
+        "name": "Koulibaly",
+        "points": 30
+      },
+      {
+        "name": "Mendy",
+        "points": 45
+      },
+      {
+        "name": "Ismaila Sarr",
+        "points": 60
+      },
+      {
+        "name": "Gueye",
+        "points": 80
+      },
+      {
+        "name": "Diatta",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "text": "Nombra un futbolista que haya representado a Egipto en la selección absoluta masculina.",
+    "difficulty": "dificil",
+    "answers": [
+      {
+        "name": "Salah",
+        "points": 15
+      },
+      {
+        "name": "Elneny",
+        "points": 30
+      },
+      {
+        "name": "Trezeguet",
+        "points": 45
+      },
+      {
+        "name": "Marmoush",
+        "points": 60
+      },
+      {
+        "name": "Mostafa Mohamed",
+        "points": 80
+      },
+      {
+        "name": "Hegazi",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "text": "Nombra un futbolista que haya representado a Nigeria en la selección absoluta masculina.",
+    "difficulty": "dificil",
+    "answers": [
+      {
+        "name": "Osimhen",
+        "points": 15
+      },
+      {
+        "name": "Lookman",
+        "points": 30
+      },
+      {
+        "name": "Iwobi",
+        "points": 45
+      },
+      {
+        "name": "Ndidi",
+        "points": 60
+      },
+      {
+        "name": "Chukwueze",
+        "points": 80
+      },
+      {
+        "name": "Iheanacho",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "text": "Nombra un futbolista que haya representado a Polonia en la selección absoluta masculina.",
+    "difficulty": "dificil",
+    "answers": [
+      {
+        "name": "Lewandowski",
+        "points": 15
+      },
+      {
+        "name": "Szczesny",
+        "points": 30
+      },
+      {
+        "name": "Zielinski",
+        "points": 45
+      },
+      {
+        "name": "Milik",
+        "points": 60
+      },
+      {
+        "name": "Kiwior",
+        "points": 80
+      },
+      {
+        "name": "Cash",
+        "points": 95
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "text": "Nombra un futbolista que haya representado a Suiza en la selección absoluta masculina.",
+    "difficulty": "dificil",
+    "answers": [
+      {
+        "name": "Xhaka",
+        "points": 15
+      },
+      {
+        "name": "Shaqiri",
+        "points": 30
+      },
+      {
+        "name": "Sommer",
+        "points": 45
+      },
+      {
+        "name": "Akanji",
+        "points": 60
+      },
+      {
+        "name": "Embolo",
+        "points": 80
+      },
+      {
+        "name": "Rodriguez",
+        "points": 95
+      }
+    ]
+  }
+]

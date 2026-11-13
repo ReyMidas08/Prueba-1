@@ -1,0 +1,358 @@
+[
+  {
+    "id": 1,
+    "club": "Real Madrid",
+    "clubAliases": [
+      "Real Madrid"
+    ],
+    "text": "Nombra un futbolista que haya jugado en Real Madrid.",
+    "answers": [
+      {
+        "playerId": "WC-00495",
+        "name": "Kylian Mbappé",
+        "aliases": [
+          "Mbappé",
+          "Mbappe"
+        ],
+        "points": 10
+      },
+      {
+        "playerId": "WC-00482",
+        "name": "Jude Bellingham",
+        "aliases": [
+          "Bellingham"
+        ],
+        "points": 30
+      },
+      {
+        "playerId": "WC-00484",
+        "name": "Federico Valverde",
+        "aliases": [
+          "Fede Valverde",
+          "Valverde"
+        ],
+        "points": 60
+      },
+      {
+        "playerId": "WC-00488",
+        "name": "Brahim Díaz",
+        "aliases": [
+          "Brahim",
+          "Brahim Diaz"
+        ],
+        "points": 80
+      },
+      {
+        "playerId": "WC-00491",
+        "name": "Alexis Ciria",
+        "aliases": [],
+        "points": 100
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "club": "Barcelona",
+    "clubAliases": [
+      "Barcelona",
+      "FC Barcelona",
+      "Barça"
+    ],
+    "text": "Nombra un futbolista que haya jugado en Barcelona.",
+    "answers": [
+      {
+        "playerId": "WC-00116",
+        "name": "Lamine Yamal",
+        "aliases": [
+          "Yamal"
+        ],
+        "points": 10
+      },
+      {
+        "playerId": "WC-00108",
+        "name": "Pedri",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "playerId": "WC-00106",
+        "name": "Gavi",
+        "aliases": [],
+        "points": 60
+      },
+      {
+        "playerId": "WC-00107",
+        "name": "Fermín López",
+        "aliases": [
+          "Fermín",
+          "Fermin"
+        ],
+        "points": 80
+      },
+      {
+        "playerId": "WC-00105",
+        "name": "Brian Fariñas",
+        "aliases": [
+          "Brian Farinas"
+        ],
+        "points": 100
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "club": "Manchester City",
+    "clubAliases": [
+      "Man City",
+      "Manchester City",
+      "Mancity",
+      "Manchester City FC",
+      "Manchestercityfceng"
+    ],
+    "text": "Nombra un futbolista que haya jugado en Manchester City.",
+    "answers": [
+      {
+        "playerId": "WC-01074",
+        "name": "Erling Haaland",
+        "aliases": [
+          "Haaland"
+        ],
+        "points": 10
+      },
+      {
+        "playerId": "WC-00109",
+        "name": "Rodri",
+        "aliases": [],
+        "points": 30
+      },
+      {
+        "playerId": "WC-00487",
+        "name": "Bernardo Silva",
+        "aliases": [],
+        "points": 60
+      },
+      {
+        "playerId": "WC-00882",
+        "name": "Jack Grealish",
+        "aliases": [
+          "Grealish"
+        ],
+        "points": 80
+      },
+      {
+        "playerId": "WC-01061",
+        "name": "Abdukodir Khusanov",
+        "aliases": [
+          "Khusanov"
+        ],
+        "points": 100
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "club": "Liverpool",
+    "clubAliases": [
+      "Liverpool",
+      "Liverpool FC"
+    ],
+    "text": "Nombra un futbolista que haya jugado en Liverpool.",
+    "answers": [
+      {
+        "playerId": "WC-01041",
+        "name": "Alexander Isak",
+        "aliases": [
+          "Isak"
+        ],
+        "points": 10
+      },
+      {
+        "playerId": "WC-01017",
+        "name": "Alisson Becker",
+        "aliases": [
+          "Alisson"
+        ],
+        "points": 30
+      },
+      {
+        "playerId": "WC-01036",
+        "name": "Alexis Mac Allister",
+        "aliases": [
+          "Mac Allister"
+        ],
+        "points": 60
+      },
+      {
+        "playerId": "WC-01043",
+        "name": "Cody Gakpo",
+        "aliases": [
+          "Gakpo"
+        ],
+        "points": 80
+      },
+      {
+        "playerId": "WC-01049",
+        "name": "Jayden Danns",
+        "aliases": [
+          "Danns"
+        ],
+        "points": 100
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "club": "Arsenal",
+    "clubAliases": [
+      "Arsenal",
+      "Arsenal FC"
+    ],
+    "text": "Nombra un futbolista que haya jugado en Arsenal.",
+    "answers": [
+      {
+        "playerId": "WC-00680",
+        "name": "Bukayo Saka",
+        "aliases": [
+          "Saka"
+        ],
+        "points": 10
+      },
+      {
+        "playerId": "WC-00676",
+        "name": "Declan Rice",
+        "aliases": [
+          "Rice"
+        ],
+        "points": 30
+      },
+      {
+        "playerId": "WC-00671",
+        "name": "Martin Ødegaard",
+        "aliases": [
+          "Martin Odegaard",
+          "Odegaard"
+        ],
+        "points": 60
+      },
+      {
+        "playerId": "WC-00664",
+        "name": "Gabriel Magalhães",
+        "aliases": [
+          "Gabriel Magalhaes"
+        ],
+        "points": 80
+      },
+      {
+        "playerId": "WC-00687",
+        "name": "Andre Annous",
+        "aliases": [],
+        "points": 100
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "club": "Chelsea",
+    "clubAliases": [
+      "Chelsea",
+      "Chelsea FC"
+    ],
+    "text": "Nombra un futbolista que haya jugado en Chelsea.",
+    "answers": [
+      {
+        "playerId": "WC-00796",
+        "name": "Cole Palmer",
+        "aliases": [
+          "Palmer"
+        ],
+        "points": 10
+      },
+      {
+        "playerId": "WC-00800",
+        "name": "Moisés Caicedo",
+        "aliases": [
+          "Moises Caicedo",
+          "Caicedo"
+        ],
+        "points": 30
+      },
+      {
+        "playerId": "WC-00805",
+        "name": "João Pedro",
+        "aliases": [
+          "Joao Pedro"
+        ],
+        "points": 60
+      },
+      {
+        "playerId": "WC-00809",
+        "name": "Estêvão",
+        "aliases": [
+          "Estevao"
+        ],
+        "points": 80
+      },
+      {
+        "playerId": "WC-00792",
+        "name": "Aaron Anselmino",
+        "aliases": [
+          "Anselmino"
+        ],
+        "points": 100
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "club": "Paris Saint-Germain",
+    "clubAliases": [
+      "Paris SG",
+      "Paris Saint-Germain",
+      "PSG"
+    ],
+    "text": "Nombra un futbolista que haya jugado en Paris Saint-Germain.",
+    "answers": [
+      {
+        "playerId": "WC-02738",
+        "name": "Achraf Hakimi",
+        "aliases": [
+          "Hakimi"
+        ],
+        "points": 10
+      },
+      {
+        "playerId": "WC-02746",
+        "name": "Fabián Ruiz",
+        "aliases": [
+          "Fabian Ruiz"
+        ],
+        "points": 30
+      },
+      {
+        "playerId": "WC-02756",
+        "name": "Désiré Doué",
+        "aliases": [
+          "Desire Doue",
+          "Doue"
+        ],
+        "points": 60
+      },
+      {
+        "playerId": "WC-01769",
+        "name": "Gonçalo Ramos",
+        "aliases": [
+          "Goncalo Ramos"
+        ],
+        "points": 80
+      },
+      {
+        "playerId": "WC-03295",
+        "name": "Adil Aouchiche",
+        "aliases": [
+          "Aouchiche"
+        ],
+        "points": 100
+      }
+    ]
+  }
+]

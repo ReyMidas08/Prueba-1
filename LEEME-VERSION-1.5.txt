@@ -1,0 +1,15 @@
+WORLD CUP 1.5 — EL DESCENSO + LA CIMA (DEMO)
+
+Abrir la carpeta world-cup-v12 en Visual Studio Code y ejecutar index.html con Live Server.
+
+NOVEDADES
+- La Cima desbloqueada en Tu desafío de hoy.
+- Mismo diseño inmersivo que El Descenso, con 10 escenarios recorridos en sentido inverso.
+- Inicio en Barrio (0 m) y meta en Champions League (700 m).
+- Futbolista sube durante las transiciones; caja de pregunta y entrada desaparecen durante la animación.
+- Contador de ALTURA a la derecha, 7 casillas y los cinco efectos de colores.
+- 7 preguntas fijas y partidas ilimitadas, también en El Descenso.
+- Para La Cima las respuestas más populares tienen mayor puntuación (ej.: Mbappé 100 en La Cima, 10 en El Descenso). En modo prueba los valores son fijos, no encuestas reales.
+- Se conserva la base de 3.515 jugadores y la BD SQLite de la 1.4, sin añadir futbolistas.
+
+AVISO: La revisión automatizada ha incluido la sintaxis JS, integridad JSON y los ficheros empaquetados. Prueba visual en navegador pendiente.

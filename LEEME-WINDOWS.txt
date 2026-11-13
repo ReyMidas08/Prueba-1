@@ -1,0 +1,12 @@
+WORLD CUP 1.4 — EL DESCENSO CON CAÍDA Y METROS
+
+1. Descomprime el ZIP.
+2. Abre la carpeta world-cup-v12 con Visual Studio Code.
+3. Abre index.html mediante Live Server.
+4. Entra a El Descenso y juega las 7 preguntas fijas.
+
+NOVEDADES: el panel de pregunta desaparece durante la caída; jugador animado, +10/+30/+60/+80/+100 metros, contador vertical a la derecha, transiciones entre estadios, aviso al pasar de fase y nueva pregunta automática. El botón CONTINUAR permite saltar la animación para pruebas.
+
+Los diez fondos vectoriales corresponden a Champions, Europa, Conference, Primera, Segunda, Modesto, Semipro, Regional, Cantera y Barrio. Están incluidos localmente en fondos-descenso.
+
+Los 3.515 jugadores siguen en la base local y las 7 preguntas son de demostración, repetibles sin límite.

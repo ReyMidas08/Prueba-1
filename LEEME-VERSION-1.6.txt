@@ -1,0 +1,19 @@
+WORLD CUP 1.6 — FUTURAS PROMESAS + GLORIAS ETERNAS
+
+NUEVO:
+- Dos nuevos desafíos jugables: Futuras Promesas (viaje 2026 → 3000) y Glorias Eternas (viaje 2026 → 1900).
+- 18 fondos vectoriales diferenciados: 9 por modo, en fondos-futuro/ y fondos-pasado/.
+- El personaje corre y viaja horizontalmente durante el cambio de época.
+- Contador de año, transición de escenario, celebración de 10/30/60/80/100 puntos, cuadrados de resultado y 7 preguntas fijas rejugables.
+- Conservados los modos La Cima y El Descenso y los 3.515 futbolistas de la versión 1.5.
+
+IMPORTANTE:
+- Los dos modos temporales utilizan provisionalmente las mismas siete preguntas sobre clubes que La Cima y El Descenso. El futuro es únicamente una ambientación de ficción, no predicción de futbolistas reales.
+- No se generan futbolistas inventados ni preguntas sobre acontecimientos futuros.
+- Son modos de prueba ilimitados, sin recompensas ni bloqueo diario.
+
+USO:
+1. Descomprimir.
+2. Abrir la carpeta world-cup-v12 en VS Code.
+3. Ejecutar index.html usando Live Server.
+4. Entrar en Futuras Promesas o Glorias Eternas → Tu desafío de hoy.

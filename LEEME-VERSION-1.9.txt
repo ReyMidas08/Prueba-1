@@ -1,0 +1,7 @@
+WORLD CUP 1.9 — CUATRO MODOS CON PREGUNTAS ALEATORIAS
+
+Abre index.html con Live Server. Cada intento sortea siete preguntas: 2 fáciles, 3 medias y 2 difíciles, de entre 210 preguntas para el modo elegido. En el intento inmediatamente siguiente se evitan, cuando es posible, las siete de la partida anterior.
+
+El Descenso, La Cima y Futuras Promesas aceptan jugadores acordes al criterio del banco. Las cinco respuestas de ejemplo tienen puntuaciones PILOTO 10/30/60/80/100; otras respuestas válidas reciben 60 provisionales. En La Cima se invierten las puntuaciones de ejemplo. Glorias Eternas tiene respuestas factuales únicas con 60 puntos por acierto (no se inventan cinco niveles de popularidad para una fecha).
+
+No hay bloqueo diario ni sincronización entre dispositivos. Los 840 enunciados proceden de WorldCup_1.8_BANCO_840_PREGUNTAS y algunos datos de trayectoria son provisionales según el maestro.

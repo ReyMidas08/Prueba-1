@@ -1,0 +1,27 @@
+WORLD CUP 1.10 — REVELACIÓN DE RESPUESTAS Y CONTROL DEL BANCO
+13/11/2026
+
+NOVEDADES
+- Al enviar cada respuesta, la pregunta y la caja de entrada desaparecen durante la animación.
+- Al acabar el movimiento del futbolista, aparecen cinco respuestas de ejemplo del banco, puntuadas 10/30/60/80/100 y coloreadas.
+- La respuesta elegida se destaca si coincide con un ejemplo del banco.
+- Se puede leer la explicación sin límite de tiempo; «Siguiente pregunta» avanza.
+- La Cima ya no invierte dos veces los valores: se respetan los puntos que trae el banco.
+- Para Glorias Eternas se enseña la única respuesta factual disponible. No se inventan cinco soluciones, puesto que el banco histórico no tiene categorías de respuesta.
+- Se mantienen 4 desafíos, 7 preguntas aleatorias por intento, 2 fáciles + 3 medias + 2 difíciles, y reintentos ilimitados.
+
+CONTROL AUTOMÁTICO REALIZADO
+- Banco: 840 preguntas; 210 por modalidad.
+- 3.150 ejemplos de respuesta (630 preguntas de futbolistas × 5) contrastados con los IDs y criterios de la base local: cero discrepancias.
+- 210 preguntas históricas: todas tienen valor esperado y el ejemplo coincide con ese valor. El archivo de origen conserva el estado «REVISAR» para las 210: NO implica que hayan sido contrastadas individualmente con fuentes primarias.
+- Cuatro modos: 40 sorteos aleatorios probados en cada uno (160 partidas simuladas); distribución de dificultad 2/3/2 y respuestas/revelaciones coherentes.
+- JavaScript supera comprobación de sintaxis con node --check.
+- No ha sido posible realizar la prueba visual en navegador: el entorno bloquea acceso local a HTTP.
+
+LIMITACIONES IMPORTANTES
+- Las puntuaciones 10/30/60/80/100 son PROVISIONALES del banco actual. Las respuestas válidas que no aparecen entre los 5 ejemplos reciben 60 puntos de prueba.
+- Glorias Eternas tiene preguntas de respuesta factual única, 60 puntos por acierto durante pruebas; para 5 niveles de puntos necesitará un banco distinto de preguntas abiertas con múltiples respuestas.
+- Se debe revisar manualmente el contenido histórico y los clubes actuales antes de lanzar rankings públicos.
+
+USO
+Descomprimir ZIP; abrir la carpeta world-cup-v12 con VS Code + Live Server; ejecutar index.html.
